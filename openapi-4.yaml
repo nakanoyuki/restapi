@@ -15,7 +15,7 @@ paths:
         - name: shopId
           in: path
           required: true
-          schema: { type:string }
+          schema: { type: string }
       responses:
         "200":
           description: "Success operation"

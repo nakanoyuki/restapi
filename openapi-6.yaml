@@ -26,4 +26,3 @@ paths:
       responses:
         "201":
           description: "Success operation"
-”
